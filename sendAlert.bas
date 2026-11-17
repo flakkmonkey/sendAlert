@@ -1,5 +1,4 @@
 ' Title : sendAlert
-' Author : Chris Garwood
 ' Description : Excel macro to send Outlook email message to pre-ddefined recipient
 '               whenever changes are made to the worksheet.
 
