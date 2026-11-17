@@ -1,3 +1,9 @@
+' Title : sendAlert
+' Author : Chris Garwood
+' Description : Excel macro to send Outlook email message to pre-ddefined recipient
+'               whenever changes are made to the worksheet.
+
+
 Sub SendAlert() ' Declares the start of the macro subroutine linked to your button
     Dim OutApp As Object ' Declares a variable to hold the Outlook application object
     Dim OutMail As Object ' Declares a variable to hold the Outlook email item object
